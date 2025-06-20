@@ -308,6 +308,5 @@ graph TD
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=120&section=footer&reversal=false&textBg=false" />
 </div>
-```
 
 
