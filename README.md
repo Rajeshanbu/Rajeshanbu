@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=800&height=80&lines=Hey,+I+am+RAJESH+A" alt="Dynamic Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=800&height=80&lines=Hey,+I+am+Rajesh+A" alt="Dynamic Name" />
 </div>
 
 <div align="right">
