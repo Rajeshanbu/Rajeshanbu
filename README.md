@@ -143,40 +143,6 @@
 
 ---
 
-## 🚀 Featured Project Portfolio
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🔐 Cybersecurity Projects</h3>
-        <div align="center">
-          <a href="https://github.com/Rajeshanbu/security-scanner">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajeshanbu&repo=security-scanner&theme=tokyonight&hide_border=true" />
-          </a>
-          <br><br>
-          <a href="https://github.com/Rajeshanbu/vulnerability-assessment">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajeshanbu&repo=vulnerability-assessment&theme=tokyonight&hide_border=true" />
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">💻 Full Stack Applications</h3>
-        <div align="center">
-          <a href="https://github.com/Rajeshanbu/ecommerce-platform">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajeshanbu&repo=ecommerce-platform&theme=tokyonight&hide_border=true" />
-          </a>
-          <br><br>
-          <a href="https://github.com/Rajeshanbu/task-management-system">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajeshanbu&repo=task-management-system&theme=tokyonight&hide_border=true" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## 📈 Skills Proficiency Matrix
 
