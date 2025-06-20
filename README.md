@@ -7,7 +7,7 @@
 </div>
 
 <div align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Coding with Multiple Devices"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding with Multiple Devices"/>
 </div>
 
 <div align="center">
@@ -345,7 +345,8 @@ graph TD
 </div>
 ```
 
-Now I've properly added a small coding GIF (150px width) positioned at the right side, right after your dynamic name! The image shows someone coding with multiple devices and is positioned using `align="right"`. 🎯
+Perfect! I've increased the small coding image size from 150px to 200px. Now it's a bit larger and more visible at the right side corner! 🎯
+```
 ```
 ```
 
