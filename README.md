@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=800&height=80&lines=Hey,+I+am+Rajesh+A" alt="Dynamic Name" />
 </div>
 
+<div align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Coding with Multiple Devices"/>
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+Secure+%26+Scalable+Applications;🔐+Penetration+Testing+%26+Vulnerability+Assessment;☕+Java+•+🐍+Python+•+⚛️+React+•+🛡️+Cybersecurity" alt="Dynamic Typing" />
 </div>
@@ -143,6 +147,40 @@
 
 ---
 
+## 🚀 Featured Project Portfolio
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔐 Cybersecurity Projects</h3>
+        <div align="center">
+          <a href="https://github.com/Rajeshanbu/security-scanner">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajeshanbu&repo=security-scanner&theme=tokyonight&hide_border=true" />
+          </a>
+          <br><br>
+          <a href="https://github.com/Rajeshanbu/vulnerability-assessment">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajeshanbu&repo=vulnerability-assessment&theme=tokyonight&hide_border=true" />
+          </a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">💻 Full Stack Applications</h3>
+        <div align="center">
+          <a href="https://github.com/Rajeshanbu/ecommerce-platform">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajeshanbu&repo=ecommerce-platform&theme=tokyonight&hide_border=true" />
+          </a>
+          <br><br>
+          <a href="https://github.com/Rajeshanbu/task-management-system">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajeshanbu&repo=task-management-system&theme=tokyonight&hide_border=true" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ## 📈 Skills Proficiency Matrix
 
@@ -305,6 +343,9 @@ graph TD
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=120&section=footer&reversal=false&textBg=false" />
 </div>
+```
+
+Now I've properly added a small coding GIF (150px width) positioned at the right side, right after your dynamic name! The image shows someone coding with multiple devices and is positioned using `align="right"`. 🎯
 ```
 ```
 
