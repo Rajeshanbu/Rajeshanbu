@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=300&section=header&text=Rajesh%20A&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Java%20Developer%20|%20Cybersecurity%20Expert%20|%20Ethical%20Hacker&descAlignY=51&descAlign=center&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=300&section=header&desc=Full%20Stack%20Java%20Developer%20|%20Cybersecurity%20Expert%20|%20Ethical%20Hacker&descAlignY=51&descAlign=center&descSize=20&descColor=fff" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=800&height=80&lines=Hey,+I+am+Rajesh+A" alt="Dynamic Name" />
 </div>
 
 <div align="center">
@@ -192,38 +196,31 @@
 
 ---
 
-## 🚀 Featured Project Portfolio
+## 🎯 Current Learning Path
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🔐 Cybersecurity Projects</h3>
-        <div align="center">
-          <a href="https://github.com/Rajeshanbu/security-scanner">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajeshanbu&repo=security-scanner&theme=tokyonight&hide_border=true" />
-          </a>
-          <br><br>
-          <a href="https://github.com/Rajeshanbu/vulnerability-assessment">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajeshanbu&repo=vulnerability-assessment&theme=tokyonight&hide_border=true" />
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">💻 Full Stack Applications</h3>
-        <div align="center">
-          <a href="https://github.com/Rajeshanbu/ecommerce-platform">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajeshanbu&repo=ecommerce-platform&theme=tokyonight&hide_border=true" />
-          </a>
-          <br><br>
-          <a href="https://github.com/Rajeshanbu/task-management-system">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajeshanbu&repo=task-management-system&theme=tokyonight&hide_border=true" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+```mermaid
+graph TD
+    A[🎓 Learning Journey] --> B[🔒 Advanced Cybersecurity]
+    A --> C[☁️ Cloud Security]
+    A --> D[🤖 AI/ML Security]
+    
+    B --> E[🛡️ Penetration Testing]
+    B --> F[🔍 Digital Forensics]
+    B --> G[⚡ Incident Response]
+    
+    C --> H[🔐 AWS Security]
+    C --> I[🛡️ Container Security]
+    C --> J[🔒 Zero Trust Architecture]
+    
+    D --> K[🤖 Adversarial ML]
+    D --> L[🔍 AI Model Security]
+    D --> M[🛡️ Privacy Preservation]
+    
+    style A fill:#FF6B6B,stroke:#fff,stroke-width:3px,color:#fff
+    style B fill:#4ECDC4,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#45B7D1,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#96CEB4,stroke:#fff,stroke-width:2px,color:#fff
+```
 
 ---
 
@@ -343,3 +340,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=120&section=footer&reversal=false&textBg=false" />
 </div>
 ```
+```
+
+
